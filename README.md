@@ -14,10 +14,10 @@ is to provide the learner with:
 2. an introduction to the tools and techniques to transform raw
 data into a presentable report,
 
-4. an opportunity to gain hands-on practice so you can learn the
+3. an opportunity to gain hands-on practice so you can learn the
 techniques for yourself, and
 
-3. an appreciation of the mathematics & statistics involved in
+4. an appreciation of the mathematics & statistics involved in
 data science.
 
 ## Core Courses
